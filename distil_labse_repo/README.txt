@@ -1,6 +1,9 @@
 This project report can be used to create a task-agnostic distillation of the multilingual transformer language model, LaBSE (Language Agnostic Sentence Embeddings). See https://arxiv.org/abs/2007.01852 for more about the teacher model.
 
-The project was carried out as an industrial research project for Sinch AB and was also a masters thesis project for KTH Royal Institute of Technology. A link to the full thesis dissertation will be added.
+The project was carried out as an industrial research project for Sinch AB and was also a masters thesis project for KTH Royal Institute of Technology. A link to the full thesis dissertation will be added. 
+
+Presentation slides found here:
+https://docs.google.com/presentation/d/12Fhqsvh7PK-G0jvQU8FZ7vDQ5xA_jgBxKI301dnq618/edit?usp=sharing
 
 Executables:
 distillation.ipynb : Used to create a task-agnostic distillation of LaBSE from the OpenSubtitles2018 dataset.
